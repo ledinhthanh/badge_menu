@@ -17,7 +17,7 @@
     "license": "",
 
     # any module necessary for this one to work correctly
-    'images': ['static/description/splash-screen.png'],
+    'images': ['static/description/icon.png'],
     'depends': ['base', 'web'],
     "data": [
         'views/assets.xml',

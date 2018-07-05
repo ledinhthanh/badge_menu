@@ -14,6 +14,7 @@
     'website': "",
     'category': 'Tools',
     'version': '0.1',
+    "license": "",
 
     # any module necessary for this one to work correctly
     'images': ['static/description/splash-screen.png'],
